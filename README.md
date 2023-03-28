@@ -9,6 +9,6 @@ Tarefas:
 5) Configurar uma senha criptografada de nome "cisco123"
 6) Configurar o acesso remoto via protocolo telnet
 7) Testar se configuramos o acesso remoto correamente
-8) Configurar uma senha de console como "cisco" e testar.\
+8) Configurar uma senha de console como "cisco" e testar.
 
 <img src="https://raw.githubusercontent.com/MattheusMartins/Configuracao-Basica-de-Redes/main/1.PNG">
